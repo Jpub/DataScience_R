@@ -1,7 +1,7 @@
 
 # R로 배우는 실무 데이터 과학
 
-![R로 배우는 실무 데이터 과학 표지](http://image.kyobobook.co.kr/images/book/xlarge/002/x9791188621002.jpg)
+![R로 배우는 실무 데이터 과학 표지](http://image.yes24.com/momo/TopCate1738/MidCate008/173778666.jpg)
 
 **출판사** 제이펍  
 **원출판사** MANNING   
